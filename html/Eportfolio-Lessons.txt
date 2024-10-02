@@ -1,0 +1,77 @@
+<html>
+<head> <title> Punzalan E-Portfolio(Lessons) </title> </head>
+<body bgcolor="#BC89FF">
+<h1 align="center" style="color:#5E4580; font-family: Georgia;"> Lessons </h1>
+<hr style="height:3px; border-width:0; width:100%; color:#5E4580; background-color:#5E4580;">
+<p align="center">
+<a href="PUNZALAN_Eportfolio.html"> Home </a> 
+<br><br>
+<a href="Epotfolio-Images.html"> Images </a>
+<br><br>
+<a href="Eportfolio-lessons.html"> Lessons </a>
+<br><br>
+<a href="Eportfolio-Reflection.html"> Reflection </a>
+
+<hr style="height:3px; border-width:0; width:70%; color:#5E4580; background-color:#5E4580;">
+<h3 align="center" style="color:#5E4580; font-family: Georgia;"> Lesson 1: XHTML </h3>
+<p align="center" style="color:#5E4580; font-family: Garamond;">
+<img align="center" src="lesson1.jpg" alt="Code" width="720" height="1520">
+<br><br>
+<img align="center" src="lesson1-1.jpg" alt="Code" width="650" height="300">
+<img align="center" src="lesson1-2.jpg" alt="Code" width="650" height="300">
+
+<hr style="height:3px; border-width:0; width:70%; color:#5E4580; background-color:#5E4580;">
+<h3 align="center" style="color:#5E4580; font-family: Georgia;"> Lesson 2: HTML Lists </h3>
+<p align="center" style="color:#5E4580; font-family: Garamond;">
+<img align="center" src="lesson2.jpg" alt="Code" width="720" height="1520">
+<br><br>
+<img align="center" src="lesson2-1.jpg" alt="Code" width="650" height="300">
+<img align="center" src="lesson2-2.jpg" alt="Code" width="650" height="300">
+
+<hr style="height:3px; border-width:0; width:70%; color:#5E4580; background-color:#5E4580;">
+<h3 align="center" style="color:#5E4580; font-family: Georgia;"> Lesson 3: HTML Tables </h3>
+<p align="center" style="color:#5E4580; font-family: Garamond;">
+<img align="center" src="lesson3.jpg" alt="Code" width="720" height="1520">
+<br><br>
+<img align="center" src="lesson3-1.jpg" alt="Code" width="650" height="300">
+<img align="center" src="lesson3-2.jpg" alt="Code" width="650" height="300">
+
+<hr style="height:3px; border-width:0; width:70%; color:#5E4580; background-color:#5E4580;">
+<h3 align="center" style="color:#5E4580; font-family: Georgia;"> Lesson 4: Merging Tables </h3>
+<p align="center" style="color:#5E4580; font-family: Garamond;">
+<img align="center" src="lesson4.jpg" alt="Code" width="720" height="1520">
+<br><br>
+<img align="center" src="lesson4-1.jpg" alt="Code" width="650" height="300">
+<img align="center" src="lesson4-2.jpg" alt="Code" width="650" height="300">
+
+<hr style="height:3px; border-width:0; width:70%; color:#5E4580; background-color:#5E4580;">
+<h3 align="center" style="color:#5E4580; font-family: Georgia;"> Lesson 5: Hyperlinks </h3>
+<p align="center" style="color:#5E4580; font-family: Garamond;">
+<img align="center" src="lesson5.jpg" alt="Code" width="720" height="1520">
+<br><br>
+<img align="center" src="lesson5-1.jpg" alt="Code" width="650" height="300">
+<img align="center" src="lesson5-2.jpg" alt="Code" width="650" height="300">
+
+<hr style="height:3px; border-width:0; width:70%; color:#5E4580; background-color:#5E4580;">
+<h3 align="center" style="color:#5E4580; font-family: Georgia;"> Lesson 6: HTML Forms </h3>
+<p align="center" style="color:#5E4580; font-family: Garamond;">
+<img align="center" src="lesson6.jpg" alt="Code" width="720" height="1520">
+<br><br>
+<img align="center" src="lesson6-1.jpg" alt="Code" width="650" height="300">
+<img align="center" src="lesson6-2.jpg" alt="Code" width="650" height="300">
+
+<hr style="height:3px; border-width:0; width:70%; color:#5E4580; background-color:#5E4580;">
+<h3 align="center" style="color:#5E4580; font-family: Georgia;"> Lesson 7: HTML Forms 2 </h3>
+<p align="center" style="color:#5E4580; font-family: Garamond;">
+<img align="center" src="lesson7.jpg" alt="Code" width="720" height="1520">
+<br><br>
+<img align="center" src="lesson7-1.jpg" alt="Code" width="650" height="300">
+<img align="center" src="lesson7-2.jpg" alt="Code" width="650" height="300">
+
+<hr style="height:3px; border-width:0; width:90%; color:#5E4580; background-color:#5E4580;">
+<hr style="height:3px; border-width:0; width:80%; color:#5E4580; background-color:#5E4580;">
+<hr style="height:3px; border-width:0; width:70%; color:#5E4580; background-color:#5E4580;">
+
+
+</body>
+</html>

@@ -1,0 +1,36 @@
+﻿<html>
+<head> <title> Punzalan E-Portfolio </title> </head>
+<body bgcolor="#BC89FF">
+<h1 align="center" style="color:#5E4580; font-family: Georgia;"> My E-Portfolio </h1>
+<h3 align="center" style="color:#5E4580; font-family: Georgia;"> By Kiev Arkin B. Punzalan of Grade 9 Family </h3>
+<hr style="height:3px; border-width:0; width:100%; color:#5E4580; background-color:#5E4580;">
+<p align="center">
+<a href="PUNZALAN_Eportfolio.html"> Home </a> 
+<br><br>
+<a href="Epotfolio-Images.html"> Images </a>
+<br><br>
+<a href="Eportfolio-lessons.html"> Lessons </a>
+<br><br>
+<a href="Eportfolio-Reflection.html"> Reflection </a>
+<hr style="height:3px; border-width:0; width:70%; color:#5E4580; background-color:#5E4580;">
+
+<p align="center" style="color:#5E4580; font-family: Garamond;">
+<b>This E-portfolio is a collection of all our activities in the 1st Quarter of TLE 9, from our written works to performance tasks.
+<br><br>
+I'm Kiev Arkin B. Punzalan, I'm 14 years old, my favorite color is purple, and I love dancing and singing.
+My favorite sports are Volleyball and Badminton.
+<br><br>
+
+<img align="center" src="Dancing.jpg" alt="Code" width="650" height="300">
+<br><br>
+<video width="1280" height="720" controls><source src="dancevid.mp4">
+<hr style="height:3px; border-width:0; width:70%; color:#5E4580; background-color:#5E4580;">
+<p align="center">
+<video width="720" height="1280" controls><source src="singvid.mp4">
+<hr style="height:3px; border-width:0; width:90%; color:#5E4580; background-color:#5E4580;">
+<hr style="height:3px; border-width:0; width:80%; color:#5E4580; background-color:#5E4580;">
+<hr style="height:3px; border-width:0; width:70%; color:#5E4580; background-color:#5E4580;">
+
+
+</body>
+</html>
